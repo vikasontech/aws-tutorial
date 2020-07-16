@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://vik-aws-tutorial.netlify.app"
 title = "Example Site"
 theme = "erblog"
 paginate = 3
